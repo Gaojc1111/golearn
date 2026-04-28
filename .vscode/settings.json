@@ -2,6 +2,8 @@
     "tooltitude.pb.includes": [
   "${workspaceFolder}",
   "C:/Users/Administrator/go/pkg/mod/github.com/gogo/protobuf@v1.3.2/protobuf"
-]
+],
+"commentTranslate.source": "Google",
+"commentTranslate.multiLineMerge": true
 
 }
